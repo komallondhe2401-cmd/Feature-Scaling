@@ -1,4 +1,4 @@
-# 📊 Feature Scaling Techniques in Data Preprocessing
+# 📊 Feature Scaling Techniques
 
 ## 📌 Project Overview
 
